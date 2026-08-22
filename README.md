@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0189-rotate-array/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShouryaMishra27/Leethub/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
