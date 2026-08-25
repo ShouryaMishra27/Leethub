@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ShouryaMishra27/Leethub/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/ShouryaMishra27/Leethub/tree/main/0283-move-zeroes/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/ShouryaMishra27/Leethub/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -42,10 +43,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShouryaMishra27/Leethub/tree/main/0001-two-sum/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/ShouryaMishra27/Leethub/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShouryaMishra27/Leethub/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/ShouryaMishra27/Leethub/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
