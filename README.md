@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/ShouryaMishra27/Leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/ShouryaMishra27/Leethub/tree/main/0075-sort-colors/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/ShouryaMishra27/Leethub/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShouryaMishra27/Leethub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ShouryaMishra27/Leethub/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0189-rotate-array/) | Medium |
@@ -81,4 +82,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ShouryaMishra27/Leethub/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/ShouryaMishra27/Leethub/tree/main/0152-maximum-product-subarray/) | Medium |
 <!---LeetCode Topics End-->
