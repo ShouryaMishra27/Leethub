@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/ShouryaMishra27/Leethub/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShouryaMishra27/Leethub/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaMishra27/Leethub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ShouryaMishra27/Leethub/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaMishra27/Leethub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/ShouryaMishra27/Leethub/tree/main/0136-single-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaMishra27/Leethub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
