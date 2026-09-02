@@ -11,9 +11,10 @@ public:
             sum+=nums[high];
             while(sum>=target)
             {
+                sum-=nums[low];
                 len=min(len,high-low+1);
                 low++;
-                sum-=nums[low-1];
+                
             }
             high++;
         }
