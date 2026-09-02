@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShouryaMishra27/Leethub/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/ShouryaMishra27/Leethub/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/ShouryaMishra27/Leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/ShouryaMishra27/Leethub/tree/main/0075-sort-colors/) | Medium |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ShouryaMishra27/Leethub/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/ShouryaMishra27/Leethub/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShouryaMishra27/Leethub/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ShouryaMishra27/Leethub/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/ShouryaMishra27/Leethub/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/ShouryaMishra27/Leethub/tree/main/0169-majority-element/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
