@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShouryaMishra27/Leethub/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaMishra27/Leethub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ShouryaMishra27/Leethub/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShouryaMishra27/Leethub/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/ShouryaMishra27/Leethub/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ShouryaMishra27/Leethub/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShouryaMishra27/Leethub/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ShouryaMishra27/Leethub/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
