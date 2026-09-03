@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0189-rotate-array/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/ShouryaMishra27/Leethub/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShouryaMishra27/Leethub/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShouryaMishra27/Leethub/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShouryaMishra27/Leethub/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/ShouryaMishra27/Leethub/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/ShouryaMishra27/Leethub/tree/main/0605-can-place-flowers/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/ShouryaMishra27/Leethub/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
