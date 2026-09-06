@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/ShouryaMishra27/Leethub/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/ShouryaMishra27/Leethub/tree/main/0263-ugly-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaMishra27/Leethub/tree/main/1903-largest-odd-number-in-string/) | Easy |
