@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/ShouryaMishra27/Leethub/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/ShouryaMishra27/Leethub/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/ShouryaMishra27/Leethub/tree/main/0724-find-pivot-index/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ShouryaMishra27/Leethub/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShouryaMishra27/Leethub/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShouryaMishra27/Leethub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ShouryaMishra27/Leethub/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/ShouryaMishra27/Leethub/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/ShouryaMishra27/Leethub/tree/main/0056-merge-intervals/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
