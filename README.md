@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ShouryaMishra27/Leethub/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/ShouryaMishra27/Leethub/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ShouryaMishra27/Leethub/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/ShouryaMishra27/Leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/ShouryaMishra27/Leethub/tree/main/0056-merge-intervals/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ShouryaMishra27/Leethub/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShouryaMishra27/Leethub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
