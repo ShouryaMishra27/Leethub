@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/ShouryaMishra27/Leethub/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/ShouryaMishra27/Leethub/tree/main/0263-ugly-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/ShouryaMishra27/Leethub/tree/main/0836-rectangle-overlap/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaMishra27/Leethub/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ShouryaMishra27/Leethub/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShouryaMishra27/Leethub/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -157,4 +158,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/ShouryaMishra27/Leethub/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
