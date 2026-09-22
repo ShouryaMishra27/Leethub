@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/ShouryaMishra27/Leethub/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/ShouryaMishra27/Leethub/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/ShouryaMishra27/Leethub/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShouryaMishra27/Leethub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ShouryaMishra27/Leethub/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0189-rotate-array/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ShouryaMishra27/Leethub/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/ShouryaMishra27/Leethub/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShouryaMishra27/Leethub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ShouryaMishra27/Leethub/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
