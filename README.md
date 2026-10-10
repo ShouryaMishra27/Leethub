@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/ShouryaMishra27/Leethub/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/ShouryaMishra27/Leethub/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/ShouryaMishra27/Leethub/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/ShouryaMishra27/Leethub/tree/main/0263-ugly-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/ShouryaMishra27/Leethub/tree/main/0836-rectangle-overlap/) | Easy |
@@ -168,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ShouryaMishra27/Leethub/tree/main/0836-rectangle-overlap/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/ShouryaMishra27/Leethub/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
